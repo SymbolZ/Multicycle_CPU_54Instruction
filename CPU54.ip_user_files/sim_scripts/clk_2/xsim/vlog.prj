@@ -1,0 +1,7 @@
+sv xil_defaultlib "C:/Xilinx16/Vivado/2016.2/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv" --include "../../../ipstatic/clk_wiz_v5_3_1"
+verilog xil_defaultlib "../../../../CPU54.srcs/sources_1/ip/clk_2/clk_2_clk_wiz.v" --include "../../../ipstatic/clk_wiz_v5_3_1"
+verilog xil_defaultlib "../../../../CPU54.srcs/sources_1/ip/clk_2/clk_2.v" --include "../../../ipstatic/clk_wiz_v5_3_1"
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
